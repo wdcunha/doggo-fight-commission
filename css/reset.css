@@ -1,0 +1,35 @@
+/* set a base font better than the default */
+html {
+  font-family: Helvetica, sans-serif;
+  font-weight: 100;
+}
+
+body {
+  margin: 0;
+}
+
+
+/* have all elements inherit box-sizing: borer-box from root tag, html
+ * for info on why this is done
+ * https://css-tricks.com/international-box-sizing-awareness-day/ */
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* force header and input tags to inherit their font weight and family instead
+ * of using their default values. this means, that they'll get the font-weight
+ * of the html root tag defined above */
+h1, h2, h3, h4, h5, h6, input {
+  font-family: inherit;
+  font-weight: inherit;
+}
+
+body {
+  color: white;
+  background-color: black;
+}
+
