@@ -1,5 +1,5 @@
 # Doggo Fight Nukreipimo Puslapis
 
-tai tinklalapis. jame yra daug istoriją. daug prakaito ir įgūdžių nuėjo į. būti drąsūs visi, kurie patenka už doggo kovotojų bus pagraužti savo nagus, kol jie yra bauda ir nesugadintas. pagraužti. pagraužti ... pagraužti
+tai tinklalapis. jame yra daug istoriją. daug prakaito ir įgūdzių nuėjo į. būti drąsūs visi, kurie patenka uz doggo kovotojų bus pagrauzti savo nagus, kol jie yra bauda ir nesugadintas. pagrauzti. pagrauzti ... pagrauzti
 
 > instrukcijas įtraukti čia
